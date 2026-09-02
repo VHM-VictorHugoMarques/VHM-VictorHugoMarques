@@ -1,42 +1,81 @@
-# Olá, eu sou o Victor Hugo Marques 👋
+<div align="center">
 
-Desenvolvedor Web apaixonado por criar soluções eficientes e bem estruturadas.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a5f,70:4338ca,100:6366f1&height=260&section=header&text=Victor%20Hugo%20Marques&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%7C%20PHP%20%E2%80%A2%20Python%20%E2%80%A2%20Java%20%E2%80%A2%20JavaScript&descAlignY=52&descSize=17" width="100%"/>
 
-## 🚀 Sobre mim
+<br>
 
-- 💻 Foco em Desenvolvimento Web (back-end e front-end)
-- 🌱 Sempre aprendendo novas tecnologias
-- 📫 Como me encontrar: victorhugo00986@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=%3E+Construindo+coisas+na+web+desde+sempre;%3E+Sempre+aprendendo+algo+novo+%F0%9F%9A%80;%3E+Aberto+a+oportunidades+e+colabora%C3%A7%C3%B5es" alt="Typing SVG" />
 
-## 🛠️ Tecnologias & Ferramentas
+<br><br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="mailto:victorhugo00986@gmail.com">
+  <img src="https://img.shields.io/badge/Email-victorhugo00986%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/VHM-VictorHugoMarques">
+  <img src="https://img.shields.io/badge/GitHub-VHM--VictorHugoMarques-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
-## 📊 Estatísticas do GitHub
+<br><br>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VHM-VictorHugoMarques&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHM-VictorHugoMarques&layout=compact&theme=radical" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=VHM-VictorHugoMarques&label=Visitas+no+perfil&color=6366f1&style=for-the-badge&labelColor=0d1117" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VHM-VictorHugoMarques&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
-## 📈 Gráfico de Atividade
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VHM-VictorHugoMarques&theme=react-dark)](https://github.com/VHM-VictorHugoMarques)
+<br>
 
-## 📫 Contato
+## 🧑‍💻&nbsp; Sobre mim
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo00986@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VHM-VictorHugoMarques)
+```yaml
+victor:
+  papel:      "Desenvolvedor Web"
+  foco:       ["Back-end", "Front-end", "Boas práticas de código"]
+  interesse:  "Aprender novas tecnologias e resolver problemas reais"
+  contato:    "victorhugo00986@gmail.com"
+```
 
----
+- 🔭&nbsp; Trabalhando com **PHP, Python, Java e JavaScript**
+- 🌱&nbsp; Aprimorando conhecimentos em desenvolvimento web
+- 💬&nbsp; Me chame sobre projetos ou oportunidades
+- ⚡&nbsp; Curioso e resolvedor de problemas
 
-⭐️ De [VHM-VictorHugoMarques](https://github.com/VHM-VictorHugoMarques)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
+
+## 🛠️&nbsp; Stack & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,python,java,js,html,css&theme=dark&perline=10" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
+
+## 📊&nbsp; Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VHM-VictorHugoMarques&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=818CF8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/VHM-VictorHugoMarques">
+  <img src="https://ghchart.rshah.org/6366f1/VHM-VictorHugoMarques" alt="Gráfico de contribuições" width="100%"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:4338ca,70:1e3a5f,100:0d1117&height=120&section=footer" width="100%"/>
+
+**⭐️ Obrigado pela visita — vamos construir algo juntos!**
+
+</div>
