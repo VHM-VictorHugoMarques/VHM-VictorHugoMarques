@@ -46,7 +46,8 @@ victor:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,java,js,html,css&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css&theme=dark&perline=10" />
+<img src="https://img.shields.io/badge/VibeCode-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 
 </div>
 
@@ -64,9 +65,15 @@ victor:
 
 <div align="center">
 
+<table>
+<tr><td align="center" style="background-color:#ffffff; border:2px solid #8b5cf6; border-radius:12px; padding:14px;">
+
 <a href="https://github.com/VHM-VictorHugoMarques">
-  <img src="https://ghchart.rshah.org/6366f1/VHM-VictorHugoMarques" alt="Gráfico de contribuições" width="100%"/>
+  <img src="https://ghchart.rshah.org/8b5cf6/VHM-VictorHugoMarques" alt="Gráfico de contribuições" width="100%"/>
 </a>
+
+</td></tr>
+</table>
 
 </div>
 
