@@ -1,88 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a5f,70:4338ca,100:6366f1&height=260&section=header&text=Victor%20Hugo%20Marques&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%7C%20PHP%20%E2%80%A2%20Python%20%E2%80%A2%20Java%20%E2%80%A2%20JavaScript&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Victor%20Hugo%20Marques&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;PHP+%7C+Python+%7C+JavaScript+%7C+HTML+%7C+C%23;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Aberto+a+novas+oportunidades+%F0%9F%A4%9D" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=%3E+Construindo+coisas+na+web+desde+sempre;%3E+Sempre+aprendendo+algo+novo+%F0%9F%9A%80;%3E+Aberto+a+oportunidades+e+colabora%C3%A7%C3%B5es" alt="Typing SVG" />
-
-<br><br>
-
-<a href="mailto:victorhugo00986@gmail.com">
-  <img src="https://img.shields.io/badge/Email-victorhugo00986%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://github.com/VHM-VictorHugoMarques">
-  <img src="https://img.shields.io/badge/GitHub-VHM--VictorHugoMarques-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=VHM-VictorHugoMarques&label=Visitas+no+perfil&color=6366f1&style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
-
-<br>
-
-## 🧑‍💻&nbsp; Sobre mim
-
-```yaml
-victor:
-  papel:      "Desenvolvedor Web"
-  foco:       ["Back-end", "Front-end", "Boas práticas de código"]
-  interesse:  "Aprender novas tecnologias e resolver problemas reais"
-  contato:    "victorhugo00986@gmail.com"
-```
-
-- 🔭&nbsp; Trabalhando com **PHP, Python, Java e JavaScript**
-- 🌱&nbsp; Aprimorando conhecimentos em desenvolvimento web
-- 💬&nbsp; Me chame sobre projetos ou oportunidades
-- ⚡&nbsp; Curioso e resolvedor de problemas
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
-
-## 🛠️&nbsp; Stack & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css&theme=dark&perline=10" />
-<img src="https://img.shields.io/badge/VibeCode-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
-
-## 📊&nbsp; Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VHM-VictorHugoMarques&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=818CF8" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VHM-VictorHugoMarques&label=Visitantes&color=A970FF&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://img.shields.io/github/followers/VHM-VictorHugoMarques?label=Seguidores&style=for-the-badge&color=A970FF&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A7_vibe_coding-A970FF?style=for-the-badge" alt="Vibe Coding"/>
+</p>
 
 </div>
 
 <br>
 
-<div align="center">
+## 👨‍💻 Sobre mim
+
+Desenvolvedor **Full Stack** focado em back-end e front-end, sempre buscando escrever código limpo e resolver problemas reais. Curioso por natureza, estou constantemente aprendendo novas tecnologias — e sim, código melhor com uma boa playlist tocando no fundo 🎧.
+
+- 🚀 Trabalho principalmente com **PHP, Python, JavaScript, HTML e C#**
+- 🌱 Atualmente explorando novos frameworks e boas práticas de arquitetura
+- 🤝 Aberto a conversas sobre projetos, freelas e oportunidades de colaboração
+- 📫 Contato: **victorhugo00986@gmail.com**
+
+<br>
+
+## 🚀 Projetos em destaque
 
 <table>
-<tr><td align="center" style="background-color:#ffffff; border:2px solid #8b5cf6; border-radius:12px; padding:14px;">
-
-<a href="https://github.com/VHM-VictorHugoMarques">
-  <img src="https://ghchart.rshah.org/8b5cf6/VHM-VictorHugoMarques" alt="Gráfico de contribuições" width="100%"/>
-</a>
-
-</td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VHM-VictorHugoMarques/portfolio-react-">🎨 portfolio-react-</a></h3>
+      <p>Portfólio profissional construído em React, com páginas e componentes reutilizáveis.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VHM-VictorHugoMarques/biblioteca-api">📚 biblioteca-api</a></h3>
+      <p>API RESTful para gerenciamento de biblioteca, com CRUD completo em Node.js e Express.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center"><sub>Veja todos os repositórios em <a href="https://github.com/VHM-VictorHugoMarques?tab=repositories">github.com/VHM-VictorHugoMarques</a></sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6366f1&height=2&width=100%25" width="100%"/>
+<br>
+
+## 🛠️ Stack principal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+## 🧰 Ferramentas & plataformas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<br>
+
+## 🔥 Streak de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VHM-VictorHugoMarques&theme=radical" alt="Streak de contribuições no GitHub"/>
+</p>
+
+<br>
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="mailto:victorhugo00986@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/VHM-VictorHugoMarques">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:4338ca,70:1e3a5f,100:0d1117&height=120&section=footer" width="100%"/>
-
-**⭐️ Obrigado pela visita — vamos construir algo juntos!**
-
+  <sub>Obrigado pela visita! ⭐ Se curtir algum projeto, deixa uma estrela.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
